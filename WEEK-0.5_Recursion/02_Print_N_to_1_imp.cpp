@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//print numbers from n to 1 in order 
 void print_nTo_one(int n)
 {
     if (n==0)
